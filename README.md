@@ -21,7 +21,7 @@ Device that supports ARCore. Checkout [ARCore Supported Devices](https://develop
 
 ### ⬇️ Download
 
-You can download the most recent version of SSFurniCraftAR from [GitHub releases](https://github.com/chayanforyou/ARFurniture/releases/latest).
+You can download the most recent version of ARFurniture from [GitHub releases](https://github.com/chayanforyou/ARFurniture/releases/latest).
 
 ### ⚖️ License
 
